@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/////' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/53BmGOum.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ... (I did not use any GIF tools, I just used loom to make the walkthrough) 
+GIF created with ... (I did not use any GIF tools, I just used my Windows built-in recording and used the submission box to convert to gif) 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
