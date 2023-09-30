@@ -22,7 +22,11 @@ const App = () => {
   const [showAnswer, setShowAnswer] = useState(false);
 
   function showNextCard() {
-    setCurrentCardIndex((prevIndex) => (prevIndex + 1) % flashcards.length);
+    let newIndex;
+    do {
+      newIndex = Math.floor(Math.random() * flashcards.length);
+    } while (newIndex === currentCardIndex)
+    setCurrentCardIndex(newIndex);
     setShowAnswer(false);
   }
 
