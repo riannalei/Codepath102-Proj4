@@ -1,35 +1,40 @@
-# Web Development Project 1 - Community Board(Best Boba in SGV)
+# Web Development Project 4 - *Get a Random Dog*
 
-Submitted by: Rianna Lei
+Submitted by: **Rianna Lei**
 
-This web app: This web app is a community board for the top ten best boba places in SGV, which is san gabriel valley as known as the 626 area. 
+This web app: **little thing to get a random dog from the internet!**
 
-Time spent: 10 hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [x] **Only one item/API call is viewable at a time**
+- [x] **API calls appear random to the user**
+- [x] **At least one image is displayed per API call**
+- [x] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
+- [x] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
 The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
-- [x] The site is responsive for both desktop and mobile formats
+- [ ] Multiple types of attributes can be added to the ban list
+- [ ] Users can see a stored history of their previously viewed items from their session
 
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
-      - I added likes and images to make the page more appealing
+* [x] some fun css!
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/53BmGOum.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://submissions.us-east-1.linodeobjects.com/web102/0slxYW9R.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ... (I did not use any GIF tools, I just used my Windows built-in recording and used the submission box to convert to gif) 
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  no tools!
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,9 +42,7 @@ GIF created with ... (I did not use any GIF tools, I just used my Windows built-
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-I encountered a lot of challenges while building the app since it was my first time using React. The first problem I encountered was why did I have to make separate JSX files when in HTML I could just put everything in the same file. I was also really confused with the syntax and made numerous mistakes. I also had a big issue with committing my project to GitHub and using Git as well. 
+This project was pretty challenging since it was an introduction to APIs and I didn't know how to use them before, so it was difficult to get the hang of it or get it to work. 
 
 ## License
 
